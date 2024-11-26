@@ -1,4 +1,4 @@
-Terraform AWS Infrastructure Automation
+# Terraform AWS Infrastructure Automation
 This Terraform project simplifies the deployment of AWS infrastructure by automating the creation of essential resources, including:
 
 Virtual Private Cloud (VPC): A secure network for your AWS resources.
